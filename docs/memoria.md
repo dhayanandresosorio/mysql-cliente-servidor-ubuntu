@@ -130,7 +130,7 @@ capturas/
 
 ## Seguridad
 
-Para publicar esta practica en GitHub se han sustituido las contrasenas por placeholders.
+Para publicar esta practica se han sustituido las contrasenas por placeholders.
 
 Ejemplos:
 
@@ -140,7 +140,6 @@ CHANGE_ME_REMOTE_PASSWORD
 CHANGE_ME_PASSWORD
 ```
 
-No se deben subir credenciales reales al repositorio.
 
 ## Organizacion del repositorio
 
@@ -154,5 +153,3 @@ mysql-cliente-servidor-ubuntu/
 |-- capturas/
 |   |-- capturas de la practica
 ```
-
-Esta version de la memoria se deja limpia para evitar problemas de codificacion. La documentacion ampliada puede editarse posteriormente desde GitHub usando el editor web.
